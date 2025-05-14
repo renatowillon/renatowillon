@@ -1,5 +1,7 @@
 # 💫 About Me:
-## Renato Willon 🚀<br><br>👨‍💻 Estudante apaixonado por programação <br>🎨 Design gráfico  <br>🎓 Buscando conhecimento constantemente <br> 🎓 Cursando ADS <br>💡 Explorando o vasto mundo do desenvolvimento de software  <br>🚀 Entusiasta de tecnologias emergentes e inovação  <br><br>
+## Renato Willon 🚀<br><br>👨‍💻 Estudante apaixonado por desenvolvimento de software <br>🎨 Criativo com experiência em design gráfico  <br>🧠 Sempre em busca de novos aprendizados <br> 🎓 Cursando Análise e Desenvolvimento de Sistemas <br>💡 Explorando possibilidades no universo da programação  <br>🚀 Entusiasta de tecnologia, inovação e tendências emergentes
+
+  <br><br>
 
 
 ## 🌐 Socials:
